@@ -1,0 +1,9 @@
+export const FETCH_MESSAGES_BEGIN = 'messages.FETCH_MESSAGES_BEGIN'
+export const FETCH_MESSAGES_SUCCESS = 'messages.FETCH_MESSAGES_SUCCESS'
+export const FETCH_MESSAGES_FAILURE = 'messages.FETCH_MESSAGES_FAILURE'
+
+export const SEND_MESSAGE = 'messages.SEND_MESSAGE'
+export const SEND_MESSAGE_SUCCESS = 'messages.SEND_MESSAGE_SUCCESS'
+
+export const MESSAGE_EDITED = 'messages.MESSAGE_EDITED'
+export const MESSAGES_DELETE = 'messages.MESSAGES_DELETE'
