@@ -12,7 +12,7 @@ const cleanOptions = {
 };
 
 module.exports = {
-  entry: './src/persistedRootReducer.js',
+  entry: './src/index.js',
   output: {
     path: __dirname + '/dist',
     publicPath: '/',
